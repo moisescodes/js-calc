@@ -14,7 +14,7 @@
   color: #fff;
   text-align: right;
   font-family: "Courier New", Courier, monospace;
-  font-size: 32px;
+  font-size: 36px;
 }
 
 .calc-row {
@@ -27,9 +27,9 @@
   width: 24.5%;
   color: #333;
   background-color: #ccc;
-  padding: 2em;
+  padding: 2rem;
   border: none;
-  font-size: 24px;
+  font-size: 32px;
   cursor: pointer;
 }
 
